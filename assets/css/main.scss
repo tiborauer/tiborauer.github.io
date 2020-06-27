@@ -1,0 +1,18 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+$global-font-family: Calibri;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+p.reference {
+  margin-left: $type-size-1;
+  text-indent: -$type-size-4;
+  font-family: $global-font-family;
+  font-size: $type-size-6;
+  line-height: 1;
+}
