@@ -15,7 +15,7 @@ on celestial pillows
 are writing dreams  
 with their clear tears;  
 and sending them  
-\- if they can \-  
+– if they can –  
 down from the Heaven.
 
 Some gets cold  
@@ -46,9 +46,9 @@ into living soil
 for the sprouting Grain.  
 
 Flying angels  
-\- like wind from a willow \-  
+– like wind from a willow –  
 leave the Safe.  
 The Water-bearers  
 carry  
-\– pure and shiny \-  
+– pure and shiny –  
 The Dream of the Brave.
