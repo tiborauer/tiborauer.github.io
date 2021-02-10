@@ -11,17 +11,17 @@ tags:
 ---
 
 # Keys
-Key or symbol | Interpretation
----------------| --------------
-<...>            | Placeholder with possible formatting hints. You can use whatever name you want or appropriate, however, the same placeholder corresponds to the same item in this document.
-project          | Centrally stored (e.g. on GitHub/GitLab), collectively developped repository you have forked.
-default          | The main branch of the *project*. It is usually called `master`.
-local            | A copy of a fork of the *project* on your computer obtained via [git clone](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone).
-feature          | Certain coding task, e.g. recitifying an issue or enhancing/adding functionality to the *project*.
-remoterepository | Link to another fork of the *project* via [git remote](https://www.atlassian.com/git/tutorials/syncing).
-remoteuser       | Another user also developping the *project* through his/her fork.
-remotebranch     | A branch in the *remotuser*'s repository.
-review           | Evaluate and modify a pull request (if needed).
+| Key or symbol | Interpretation |
+| ---------------| -------------- |
+| <...>            | Placeholder with possible formatting hints. You can use whatever name you want or appropriate, however, the same placeholder corresponds to the same item in this document. |
+| project          | Centrally stored (e.g. on GitHub/GitLab), collectively developped repository you have forked. |
+| default          | The main branch of the *project*. It is usually called `master`. |
+| local            | A copy of a fork of the *project* on your computer obtained via [git clone](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone). |
+| feature          | Certain coding task, e.g. recitifying an issue or enhancing/adding functionality to the *project*. |
+| remoterepository | Link to another fork of the *project* via [git remote](https://www.atlassian.com/git/tutorials/syncing). |
+| remoteuser       | Another user also developping the *project* through his/her fork. |
+| remotebranch     | A branch in the *remotuser*'s repository. |
+| review           | Evaluate and modify a pull request (if needed). |
 
 
 # Use cases
