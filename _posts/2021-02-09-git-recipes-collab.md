@@ -11,8 +11,9 @@ tags:
 ---
 
 # Keys
-| Key or symbol | Interpretation |
-| ---------------| -------------- |
+
+| Key or symbol    | Interpretation |
+| ---------------  | -------------- |
 | <...>            | Placeholder with possible formatting hints. You can use whatever name you want or appropriate, however, the same placeholder corresponds to the same item in this document. |
 | project          | Centrally stored (e.g. on GitHub/GitLab), collectively developped repository you have forked. |
 | default          | The main branch of the *project*. It is usually called `master`. |
