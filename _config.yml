@@ -60,9 +60,9 @@ author:
   bio         : "neuro-imaginer, neurosha(r)per, neurohacker, science opener"
   avatar      : "/assets/images/bio-photo.jpg"
   links:
-    - label: "Website"
+    - label: "Work Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.surrey.ac.uk/people/tibor-auer"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:tibor.auer@gmail.com"
